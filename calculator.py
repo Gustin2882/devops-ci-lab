@@ -1,6 +1,6 @@
-# calculator.py (BROKEN VERSION)
+# calculator.py (FIXED VERSION)
 def add(x, y):
-    return x - y  # <--- Oops! I used minus instead of plus
+    return x + y
 
 
 def subtract(x, y):
